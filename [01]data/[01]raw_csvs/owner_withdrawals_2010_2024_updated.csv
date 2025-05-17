@@ -1,0 +1,784 @@
+transaction_id,date,amount,purpose,notes,payment_method,status
+OWN00001,2010-01-03,144.91,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00002,2010-01-10,169.34,Emergency Fund,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00003,2010-01-17,154.04,Business Investment,,Cash,Completed
+OWN00004,2010-01-24,46.24,Personal Expense,Withdrew for family expense,Cash,Planned
+OWN00005,2010-01-31,97.86,Personal Expense,,Cash,Cancelled
+OWN00006,2010-02-07,97.23,Personal Expense,,Cash,Completed
+OWN00007,2010-02-14,198.78,Profit Share,,Cash,Completed
+OWN00008,2010-02-21,6.1,Profit Share,,Bank Transfer,Completed
+OWN00009,2010-02-28,107.85,Business Investment,,Cash,Completed
+OWN00010,2010-03-07,144.32,Emergency Fund,,Cash,Completed
+OWN00011,2010-03-14,69.78,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00012,2010-03-21,237.31,Emergency Fund,,Cash,Completed
+OWN00013,2010-03-28,44.22,Emergency Fund,,Bank Transfer,Completed
+OWN00014,2010-04-04,277.91,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00015,2010-04-11,93.0,Personal Expense,,Cash,Completed
+OWN00016,2010-04-18,417.29,Personal Expense,,Bank Transfer,Completed
+OWN00017,2010-04-25,13.42,Profit Share,,Bank Transfer,Cancelled
+OWN00018,2010-05-02,326.91,Profit Share,,Bank Transfer,Completed
+OWN00019,2010-05-09,14.22,Profit Share,,Cash,Completed
+OWN00020,2010-05-16,290.53,Business Investment,,Bank Transfer,Completed
+OWN00021,2010-05-23,186.6,Profit Share,End of month share,Bank Transfer,Completed
+OWN00022,2010-05-30,290.83,Business Investment,Withdrew for family expense,Cash,Cancelled
+OWN00023,2010-06-06,81.65,Profit Share,End of month share,Bank Transfer,Completed
+OWN00024,2010-06-13,144.93,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00025,2010-06-20,382.34,Profit Share,End of month share,Cash,Completed
+OWN00026,2010-06-27,413.41,Profit Share,End of month share,Bank Transfer,Completed
+OWN00027,2010-07-04,267.21,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00028,2010-07-11,186.51,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00029,2010-07-18,108.94,Business Investment,,Cash,Completed
+OWN00030,2010-07-25,230.25,Emergency Fund,,Cash,Planned
+OWN00031,2010-08-01,155.79,Business Investment,End of month share,Bank Transfer,Completed
+OWN00032,2010-08-08,354.95,Profit Share,Withdrew for family expense,Bank Transfer,Planned
+OWN00033,2010-08-15,153.71,Emergency Fund,,Bank Transfer,Completed
+OWN00034,2010-08-22,38.87,Business Investment,,Bank Transfer,Completed
+OWN00035,2010-08-29,53.91,Personal Expense,,Cash,Completed
+OWN00036,2010-09-05,59.46,Profit Share,,Bank Transfer,Completed
+OWN00037,2010-09-12,391.19,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00038,2010-09-19,335.3,Business Investment,End of month share,Cash,Planned
+OWN00039,2010-09-26,176.1,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00040,2010-10-03,49.55,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00041,2010-10-10,482.13,Emergency Fund,,Bank Transfer,Planned
+OWN00042,2010-10-17,460.24,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00043,2010-10-24,336.76,Emergency Fund,,Bank Transfer,Cancelled
+OWN00044,2010-10-31,257.13,Business Investment,End of month share,Bank Transfer,Completed
+OWN00045,2010-11-07,232.95,Profit Share,End of month share,Cash,Completed
+OWN00046,2010-11-14,278.57,Profit Share,,Cash,Cancelled
+OWN00047,2010-11-21,228.47,Personal Expense,,Bank Transfer,Completed
+OWN00048,2010-11-28,276.96,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00049,2010-12-05,447.38,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00050,2010-12-12,6.39,Personal Expense,,Cash,Completed
+OWN00051,2010-12-19,261.33,Profit Share,,Cash,Completed
+OWN00052,2010-12-26,347.52,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00053,2011-01-02,181.85,Personal Expense,,Bank Transfer,Planned
+OWN00054,2011-01-09,116.43,Profit Share,End of month share,Cash,Completed
+OWN00055,2011-01-16,178.05,Emergency Fund,,Cash,Completed
+OWN00056,2011-01-23,73.69,Profit Share,,Cash,Completed
+OWN00057,2011-01-30,115.41,Profit Share,,Bank Transfer,Completed
+OWN00058,2011-02-06,249.07,Profit Share,End of month share,Bank Transfer,Planned
+OWN00059,2011-02-13,151.38,Business Investment,,Cash,Completed
+OWN00060,2011-02-20,100.97,Profit Share,End of month share,Cash,Completed
+OWN00061,2011-02-27,404.74,Profit Share,,Cash,Completed
+OWN00062,2011-03-06,440.06,Profit Share,,Cash,Cancelled
+OWN00063,2011-03-13,229.83,Business Investment,Withdrew for family expense,Cash,Cancelled
+OWN00064,2011-03-20,215.34,Profit Share,,Cash,Completed
+OWN00065,2011-03-27,330.04,Personal Expense,,Bank Transfer,Completed
+OWN00066,2011-04-03,253.34,Profit Share,,Cash,Completed
+OWN00067,2011-04-10,383.24,Profit Share,,Bank Transfer,Completed
+OWN00068,2011-04-17,418.47,Business Investment,,Cash,Completed
+OWN00069,2011-04-24,190.29,Emergency Fund,,Cash,Completed
+OWN00070,2011-05-01,28.22,Profit Share,End of month share,Bank Transfer,Completed
+OWN00071,2011-05-08,455.19,Profit Share,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00072,2011-05-15,269.21,Personal Expense,,Cash,Cancelled
+OWN00073,2011-05-22,10.2,Profit Share,End of month share,Cash,Completed
+OWN00074,2011-05-29,285.18,Profit Share,,Bank Transfer,Completed
+OWN00075,2011-06-05,345.43,Profit Share,End of month share,Bank Transfer,Completed
+OWN00076,2011-06-12,307.41,Profit Share,,Bank Transfer,Completed
+OWN00077,2011-06-19,420.19,Profit Share,,Cash,Completed
+OWN00078,2011-06-26,498.11,Profit Share,,Bank Transfer,Completed
+OWN00079,2011-07-03,295.93,Personal Expense,,Cash,Completed
+OWN00080,2011-07-10,104.87,Personal Expense,End of month share,Cash,Completed
+OWN00081,2011-07-17,216.46,Profit Share,,Cash,Completed
+OWN00082,2011-07-24,312.48,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00083,2011-07-31,313.92,Profit Share,,Bank Transfer,Completed
+OWN00084,2011-08-07,330.4,Emergency Fund,End of month share,Cash,Completed
+OWN00085,2011-08-14,467.32,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00086,2011-08-21,231.24,Business Investment,End of month share,Cash,Completed
+OWN00087,2011-08-28,205.13,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00088,2011-09-04,133.47,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00089,2011-09-11,119.24,Profit Share,End of month share,Cash,Planned
+OWN00090,2011-09-18,242.69,Profit Share,,Bank Transfer,Completed
+OWN00091,2011-09-25,79.68,Business Investment,End of month share,Bank Transfer,Cancelled
+OWN00092,2011-10-02,322.15,Business Investment,,Bank Transfer,Cancelled
+OWN00093,2011-10-09,156.95,Profit Share,,Cash,Completed
+OWN00094,2011-10-16,335.84,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00095,2011-10-23,55.97,Emergency Fund,End of month share,Cash,Completed
+OWN00096,2011-10-30,442.28,Profit Share,End of month share,Cash,Completed
+OWN00097,2011-11-06,416.17,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00098,2011-11-13,109.0,Emergency Fund,,Cash,Planned
+OWN00099,2011-11-20,127.15,Profit Share,End of month share,Bank Transfer,Completed
+OWN00100,2011-11-27,158.24,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00101,2011-12-04,181.5,Business Investment,,Bank Transfer,Completed
+OWN00102,2011-12-11,420.74,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00103,2011-12-18,276.36,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00104,2011-12-25,267.46,Profit Share,,Cash,Completed
+OWN00105,2012-01-01,463.75,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00106,2012-01-08,105.19,Emergency Fund,End of month share,Cash,Completed
+OWN00107,2012-01-15,394.66,Profit Share,,Cash,Completed
+OWN00108,2012-01-22,368.47,Profit Share,,Bank Transfer,Completed
+OWN00109,2012-01-29,412.2,Personal Expense,End of month share,Cash,Completed
+OWN00110,2012-02-05,301.06,Business Investment,,Bank Transfer,Completed
+OWN00111,2012-02-12,380.99,Profit Share,,Bank Transfer,Completed
+OWN00112,2012-02-19,1.54,Profit Share,,Bank Transfer,Completed
+OWN00113,2012-02-26,78.91,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00114,2012-03-04,396.32,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00115,2012-03-11,86.74,Profit Share,End of month share,Bank Transfer,Completed
+OWN00116,2012-03-18,42.2,Profit Share,,Bank Transfer,Completed
+OWN00117,2012-03-25,10.37,Emergency Fund,,Bank Transfer,Planned
+OWN00118,2012-04-01,130.89,Profit Share,,Cash,Completed
+OWN00119,2012-04-08,74.63,Profit Share,,Bank Transfer,Completed
+OWN00120,2012-04-15,359.29,Emergency Fund,,Cash,Completed
+OWN00121,2012-04-22,59.26,Profit Share,End of month share,Cash,Completed
+OWN00122,2012-04-29,373.22,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00123,2012-05-06,497.6,Personal Expense,,Bank Transfer,Completed
+OWN00124,2012-05-13,204.26,Emergency Fund,Withdrew for family expense,Cash,Cancelled
+OWN00125,2012-05-20,453.66,Personal Expense,,Bank Transfer,Completed
+OWN00126,2012-05-27,5.16,Emergency Fund,,Bank Transfer,Cancelled
+OWN00127,2012-06-03,356.67,Business Investment,End of month share,Bank Transfer,Completed
+OWN00128,2012-06-10,47.64,Emergency Fund,,Cash,Cancelled
+OWN00129,2012-06-17,498.37,Emergency Fund,,Bank Transfer,Completed
+OWN00130,2012-06-24,126.83,Profit Share,,Cash,Completed
+OWN00131,2012-07-01,66.12,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00132,2012-07-08,84.93,Profit Share,,Bank Transfer,Completed
+OWN00133,2012-07-15,44.82,Profit Share,End of month share,Bank Transfer,Completed
+OWN00134,2012-07-22,156.63,Profit Share,End of month share,Cash,Completed
+OWN00135,2012-07-29,463.12,Business Investment,End of month share,Cash,Completed
+OWN00136,2012-08-05,217.89,Business Investment,Withdrew for family expense,Cash,Cancelled
+OWN00137,2012-08-12,26.61,Profit Share,,Cash,Planned
+OWN00138,2012-08-19,81.78,Profit Share,,Bank Transfer,Completed
+OWN00139,2012-08-26,220.76,Personal Expense,,Cash,Completed
+OWN00140,2012-09-02,56.25,Profit Share,End of month share,Bank Transfer,Completed
+OWN00141,2012-09-09,101.87,Business Investment,End of month share,Bank Transfer,Completed
+OWN00142,2012-09-16,291.77,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00143,2012-09-23,460.21,Profit Share,,Cash,Completed
+OWN00144,2012-09-30,12.98,Personal Expense,,Cash,Completed
+OWN00145,2012-10-07,295.17,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00146,2012-10-14,40.53,Personal Expense,,Cash,Completed
+OWN00147,2012-10-21,297.1,Personal Expense,,Cash,Planned
+OWN00148,2012-10-28,473.71,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00149,2012-11-04,431.64,Profit Share,,Bank Transfer,Completed
+OWN00150,2012-11-11,273.58,Profit Share,End of month share,Bank Transfer,Completed
+OWN00151,2012-11-18,120.04,Profit Share,,Bank Transfer,Completed
+OWN00152,2012-11-25,81.47,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00153,2012-12-02,149.27,Business Investment,End of month share,Bank Transfer,Completed
+OWN00154,2012-12-09,179.52,Personal Expense,,Cash,Cancelled
+OWN00155,2012-12-16,442.71,Personal Expense,,Bank Transfer,Completed
+OWN00156,2012-12-23,378.25,Personal Expense,,Cash,Completed
+OWN00157,2012-12-30,46.47,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00158,2013-01-06,465.33,Personal Expense,,Cash,Completed
+OWN00159,2013-01-13,234.11,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00160,2013-01-20,420.77,Profit Share,,Bank Transfer,Completed
+OWN00161,2013-01-27,458.65,Personal Expense,,Bank Transfer,Completed
+OWN00162,2013-02-03,232.33,Business Investment,End of month share,Cash,Completed
+OWN00163,2013-02-10,292.78,Profit Share,,Bank Transfer,Completed
+OWN00164,2013-02-17,393.09,Profit Share,,Cash,Completed
+OWN00165,2013-02-24,156.97,Business Investment,,Cash,Completed
+OWN00166,2013-03-03,170.67,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00167,2013-03-10,39.11,Profit Share,,Cash,Completed
+OWN00168,2013-03-17,267.19,Profit Share,,Cash,Planned
+OWN00169,2013-03-24,345.9,Emergency Fund,,Cash,Completed
+OWN00170,2013-03-31,309.25,Profit Share,,Cash,Completed
+OWN00171,2013-04-07,43.82,Profit Share,,Bank Transfer,Planned
+OWN00172,2013-04-14,429.51,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00173,2013-04-21,421.04,Personal Expense,,Cash,Completed
+OWN00174,2013-04-28,384.86,Profit Share,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00175,2013-05-05,369.39,Profit Share,,Cash,Completed
+OWN00176,2013-05-12,292.61,Personal Expense,,Bank Transfer,Completed
+OWN00177,2013-05-19,166.93,Emergency Fund,,Cash,Cancelled
+OWN00178,2013-05-26,18.51,Personal Expense,,Bank Transfer,Completed
+OWN00179,2013-06-02,357.15,Profit Share,End of month share,Bank Transfer,Completed
+OWN00180,2013-06-09,133.92,Business Investment,,Cash,Completed
+OWN00181,2013-06-16,311.35,Profit Share,,Bank Transfer,Completed
+OWN00182,2013-06-23,80.67,Profit Share,,Bank Transfer,Completed
+OWN00183,2013-06-30,253.82,Personal Expense,,Bank Transfer,Completed
+OWN00184,2013-07-07,441.59,Profit Share,,Cash,Completed
+OWN00185,2013-07-14,397.99,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00186,2013-07-21,345.35,Profit Share,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00187,2013-07-28,302.87,Emergency Fund,,Cash,Cancelled
+OWN00188,2013-08-04,117.36,Emergency Fund,End of month share,Cash,Completed
+OWN00189,2013-08-11,178.52,Business Investment,End of month share,Cash,Planned
+OWN00190,2013-08-18,56.98,Personal Expense,,Cash,Completed
+OWN00191,2013-08-25,496.83,Business Investment,End of month share,Bank Transfer,Completed
+OWN00192,2013-09-01,426.7,Personal Expense,,Bank Transfer,Completed
+OWN00193,2013-09-08,463.32,Profit Share,,Bank Transfer,Completed
+OWN00194,2013-09-15,390.83,Business Investment,,Bank Transfer,Completed
+OWN00195,2013-09-22,253.65,Business Investment,End of month share,Bank Transfer,Planned
+OWN00196,2013-09-29,364.17,Business Investment,,Bank Transfer,Completed
+OWN00197,2013-10-06,77.15,Business Investment,,Bank Transfer,Completed
+OWN00198,2013-10-13,219.55,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00199,2013-10-20,170.66,Profit Share,End of month share,Cash,Completed
+OWN00200,2013-10-27,180.32,Profit Share,,Bank Transfer,Completed
+OWN00201,2013-11-03,69.0,Emergency Fund,,Cash,Completed
+OWN00202,2013-11-10,471.87,Business Investment,,Bank Transfer,Completed
+OWN00203,2013-11-17,169.15,Business Investment,,Bank Transfer,Completed
+OWN00204,2013-11-24,196.63,Emergency Fund,,Cash,Planned
+OWN00205,2013-12-01,209.65,Business Investment,End of month share,Cash,Completed
+OWN00206,2013-12-08,454.62,Emergency Fund,Withdrew for family expense,Cash,Cancelled
+OWN00207,2013-12-15,223.09,Personal Expense,,Cash,Completed
+OWN00208,2013-12-22,443.84,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00209,2013-12-29,42.14,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00210,2014-01-05,713.73,Profit Share,End of month share,Bank Transfer,Completed
+OWN00211,2014-01-12,523.42,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00212,2014-01-19,1332.23,Profit Share,,Bank Transfer,Completed
+OWN00213,2014-01-26,1341.58,Personal Expense,,Bank Transfer,Completed
+OWN00214,2014-02-02,1256.56,Profit Share,,Cash,Completed
+OWN00215,2014-02-09,838.98,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00216,2014-02-16,799.2,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00217,2014-02-23,1019.67,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00218,2014-03-02,954.31,Business Investment,,Bank Transfer,Cancelled
+OWN00219,2014-03-09,562.19,Profit Share,,Bank Transfer,Completed
+OWN00220,2014-03-16,869.29,Personal Expense,,Cash,Completed
+OWN00221,2014-03-23,1084.3,Emergency Fund,,Cash,Completed
+OWN00222,2014-03-30,1323.81,Profit Share,,Bank Transfer,Planned
+OWN00223,2014-04-06,1468.03,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00224,2014-04-13,973.36,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00225,2014-04-20,1101.6,Profit Share,End of month share,Bank Transfer,Completed
+OWN00226,2014-04-27,1022.78,Emergency Fund,End of month share,Cash,Cancelled
+OWN00227,2014-05-04,985.93,Profit Share,,Bank Transfer,Completed
+OWN00228,2014-05-11,1436.82,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00229,2014-05-18,502.09,Profit Share,,Cash,Completed
+OWN00230,2014-05-25,981.18,Profit Share,End of month share,Cash,Completed
+OWN00231,2014-06-01,975.23,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00232,2014-06-08,1261.68,Profit Share,End of month share,Bank Transfer,Completed
+OWN00233,2014-06-15,1299.81,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00234,2014-06-22,839.0,Business Investment,,Bank Transfer,Cancelled
+OWN00235,2014-06-29,1207.21,Business Investment,End of month share,Bank Transfer,Completed
+OWN00236,2014-07-06,1143.91,Emergency Fund,Withdrew for family expense,Cash,Planned
+OWN00237,2014-07-13,1002.64,Emergency Fund,End of month share,Bank Transfer,Planned
+OWN00238,2014-07-20,745.29,Business Investment,,Bank Transfer,Completed
+OWN00239,2014-07-27,1306.92,Profit Share,,Cash,Completed
+OWN00240,2014-08-03,1361.97,Profit Share,,Cash,Cancelled
+OWN00241,2014-08-10,882.01,Personal Expense,End of month share,Bank Transfer,Planned
+OWN00242,2014-08-17,682.67,Profit Share,,Bank Transfer,Completed
+OWN00243,2014-08-24,558.91,Profit Share,,Cash,Completed
+OWN00244,2014-08-31,889.94,Profit Share,End of month share,Cash,Completed
+OWN00245,2014-09-07,875.51,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00246,2014-09-14,1252.13,Profit Share,,Bank Transfer,Completed
+OWN00247,2014-09-21,769.29,Personal Expense,,Cash,Completed
+OWN00248,2014-09-28,528.91,Emergency Fund,,Cash,Completed
+OWN00249,2014-10-05,1054.08,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00250,2014-10-12,1068.25,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00251,2014-10-19,873.31,Business Investment,,Cash,Completed
+OWN00252,2014-10-26,541.79,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00253,2014-11-02,500.54,Profit Share,End of month share,Cash,Completed
+OWN00254,2014-11-09,1499.24,Profit Share,End of month share,Bank Transfer,Completed
+OWN00255,2014-11-16,661.42,Profit Share,,Cash,Completed
+OWN00256,2014-11-23,1198.43,Business Investment,End of month share,Cash,Completed
+OWN00257,2014-11-30,710.85,Business Investment,End of month share,Cash,Completed
+OWN00258,2014-12-07,1479.64,Profit Share,End of month share,Cash,Completed
+OWN00259,2014-12-14,710.62,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00260,2014-12-21,1108.79,Personal Expense,,Cash,Planned
+OWN00261,2014-12-28,1262.47,Business Investment,,Bank Transfer,Completed
+OWN00262,2015-01-04,1392.57,Profit Share,,Cash,Completed
+OWN00263,2015-01-11,1472.04,Personal Expense,,Bank Transfer,Completed
+OWN00264,2015-01-18,1339.15,Emergency Fund,,Cash,Completed
+OWN00265,2015-01-25,870.48,Profit Share,,Cash,Planned
+OWN00266,2015-02-01,1180.55,Profit Share,End of month share,Bank Transfer,Completed
+OWN00267,2015-02-08,734.26,Profit Share,End of month share,Cash,Completed
+OWN00268,2015-02-15,1404.51,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00269,2015-02-22,610.95,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00270,2015-03-01,1159.84,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00271,2015-03-08,1088.16,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00272,2015-03-15,691.85,Emergency Fund,End of month share,Cash,Completed
+OWN00273,2015-03-22,501.95,Personal Expense,,Cash,Completed
+OWN00274,2015-03-29,932.55,Profit Share,,Cash,Completed
+OWN00275,2015-04-05,861.47,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00276,2015-04-12,777.93,Profit Share,,Cash,Completed
+OWN00277,2015-04-19,694.61,Emergency Fund,Withdrew for family expense,Cash,Planned
+OWN00278,2015-04-26,1457.78,Profit Share,End of month share,Cash,Completed
+OWN00279,2015-05-03,562.84,Profit Share,,Bank Transfer,Completed
+OWN00280,2015-05-10,1092.53,Profit Share,End of month share,Bank Transfer,Completed
+OWN00281,2015-05-17,607.84,Profit Share,,Cash,Completed
+OWN00282,2015-05-24,1019.68,Profit Share,,Bank Transfer,Completed
+OWN00283,2015-05-31,1125.35,Profit Share,,Bank Transfer,Completed
+OWN00284,2015-06-07,877.4,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00285,2015-06-14,1419.12,Profit Share,,Bank Transfer,Completed
+OWN00286,2015-06-21,601.83,Profit Share,,Cash,Planned
+OWN00287,2015-06-28,595.83,Profit Share,,Cash,Completed
+OWN00288,2015-07-05,883.92,Business Investment,,Cash,Completed
+OWN00289,2015-07-12,1150.92,Profit Share,End of month share,Bank Transfer,Completed
+OWN00290,2015-07-19,608.01,Personal Expense,Withdrew for family expense,Bank Transfer,Planned
+OWN00291,2015-07-26,1137.36,Profit Share,,Bank Transfer,Completed
+OWN00292,2015-08-02,743.15,Profit Share,End of month share,Cash,Completed
+OWN00293,2015-08-09,1013.13,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00294,2015-08-16,969.52,Profit Share,,Bank Transfer,Completed
+OWN00295,2015-08-23,557.32,Business Investment,,Cash,Completed
+OWN00296,2015-08-30,843.82,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00297,2015-09-06,841.55,Personal Expense,,Cash,Completed
+OWN00298,2015-09-13,1352.01,Profit Share,End of month share,Cash,Completed
+OWN00299,2015-09-20,828.62,Profit Share,,Bank Transfer,Planned
+OWN00300,2015-09-27,1193.22,Profit Share,,Cash,Completed
+OWN00301,2015-10-04,1307.27,Profit Share,,Cash,Completed
+OWN00302,2015-10-11,509.89,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00303,2015-10-18,940.41,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00304,2015-10-25,1475.31,Profit Share,End of month share,Bank Transfer,Cancelled
+OWN00305,2015-11-01,839.82,Profit Share,,Bank Transfer,Completed
+OWN00306,2015-11-08,1342.88,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00307,2015-11-15,1154.87,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00308,2015-11-22,956.2,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00309,2015-11-29,1378.39,Business Investment,Withdrew for family expense,Bank Transfer,Planned
+OWN00310,2015-12-06,691.68,Profit Share,,Bank Transfer,Completed
+OWN00311,2015-12-13,1421.01,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00312,2015-12-20,827.68,Business Investment,,Bank Transfer,Cancelled
+OWN00313,2015-12-27,1227.3,Business Investment,,Bank Transfer,Completed
+OWN00314,2016-01-03,1008.61,Personal Expense,End of month share,Cash,Completed
+OWN00315,2016-01-10,1018.89,Personal Expense,,Cash,Cancelled
+OWN00316,2016-01-17,973.76,Personal Expense,,Bank Transfer,Completed
+OWN00317,2016-01-24,719.53,Business Investment,,Bank Transfer,Completed
+OWN00318,2016-01-31,806.0,Personal Expense,End of month share,Cash,Completed
+OWN00319,2016-02-07,1050.55,Profit Share,End of month share,Bank Transfer,Planned
+OWN00320,2016-02-14,1083.96,Personal Expense,,Cash,Completed
+OWN00321,2016-02-21,967.55,Business Investment,End of month share,Cash,Completed
+OWN00322,2016-02-28,882.37,Profit Share,,Cash,Planned
+OWN00323,2016-03-06,1401.48,Personal Expense,,Cash,Completed
+OWN00324,2016-03-13,1426.61,Profit Share,Withdrew for family expense,Cash,Planned
+OWN00325,2016-03-20,696.65,Profit Share,End of month share,Bank Transfer,Completed
+OWN00326,2016-03-27,1205.64,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00327,2016-04-03,1270.08,Profit Share,,Cash,Completed
+OWN00328,2016-04-10,1321.86,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00329,2016-04-17,727.58,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00330,2016-04-24,1222.51,Business Investment,End of month share,Bank Transfer,Completed
+OWN00331,2016-05-01,928.79,Profit Share,,Cash,Completed
+OWN00332,2016-05-08,1352.94,Personal Expense,Withdrew for family expense,Cash,Planned
+OWN00333,2016-05-15,1443.35,Profit Share,,Cash,Cancelled
+OWN00334,2016-05-22,1185.76,Business Investment,End of month share,Cash,Completed
+OWN00335,2016-05-29,1086.96,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00336,2016-06-05,1477.24,Personal Expense,,Cash,Completed
+OWN00337,2016-06-12,704.2,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00338,2016-06-19,608.64,Profit Share,End of month share,Bank Transfer,Completed
+OWN00339,2016-06-26,671.42,Profit Share,,Bank Transfer,Completed
+OWN00340,2016-07-03,686.69,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00341,2016-07-10,1159.57,Profit Share,,Bank Transfer,Planned
+OWN00342,2016-07-17,826.77,Profit Share,,Bank Transfer,Completed
+OWN00343,2016-07-24,1036.45,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00344,2016-07-31,1370.45,Business Investment,,Bank Transfer,Completed
+OWN00345,2016-08-07,1103.71,Personal Expense,,Cash,Completed
+OWN00346,2016-08-14,701.7,Profit Share,,Bank Transfer,Completed
+OWN00347,2016-08-21,1025.86,Business Investment,,Cash,Completed
+OWN00348,2016-08-28,1076.13,Profit Share,,Cash,Completed
+OWN00349,2016-09-04,1200.32,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00350,2016-09-11,749.13,Business Investment,,Cash,Completed
+OWN00351,2016-09-18,1410.83,Profit Share,,Bank Transfer,Planned
+OWN00352,2016-09-25,1385.54,Personal Expense,,Bank Transfer,Cancelled
+OWN00353,2016-10-02,1408.74,Business Investment,,Cash,Completed
+OWN00354,2016-10-09,576.53,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00355,2016-10-16,707.37,Profit Share,,Cash,Planned
+OWN00356,2016-10-23,843.66,Profit Share,,Bank Transfer,Completed
+OWN00357,2016-10-30,750.61,Profit Share,,Cash,Completed
+OWN00358,2016-11-06,961.36,Business Investment,,Bank Transfer,Planned
+OWN00359,2016-11-13,970.79,Profit Share,,Bank Transfer,Completed
+OWN00360,2016-11-20,677.24,Profit Share,,Cash,Cancelled
+OWN00361,2016-11-27,653.5,Profit Share,,Bank Transfer,Completed
+OWN00362,2016-12-04,942.06,Profit Share,End of month share,Cash,Planned
+OWN00363,2016-12-11,552.42,Business Investment,Withdrew for family expense,Cash,Cancelled
+OWN00364,2016-12-18,1408.76,Profit Share,,Cash,Planned
+OWN00365,2016-12-25,1320.53,Profit Share,,Bank Transfer,Completed
+OWN00366,2017-01-01,1224.01,Business Investment,End of month share,Bank Transfer,Planned
+OWN00367,2017-01-08,1124.67,Profit Share,,Bank Transfer,Completed
+OWN00368,2017-01-15,732.41,Profit Share,,Cash,Cancelled
+OWN00369,2017-01-22,511.98,Profit Share,End of month share,Cash,Completed
+OWN00370,2017-01-29,543.94,Profit Share,,Bank Transfer,Completed
+OWN00371,2017-02-05,1212.53,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00372,2017-02-12,1459.03,Emergency Fund,,Bank Transfer,Completed
+OWN00373,2017-02-19,832.05,Business Investment,End of month share,Cash,Completed
+OWN00374,2017-02-26,567.51,Profit Share,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00375,2017-03-05,732.61,Business Investment,End of month share,Bank Transfer,Completed
+OWN00376,2017-03-12,1237.91,Personal Expense,,Bank Transfer,Completed
+OWN00377,2017-03-19,874.52,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00378,2017-03-26,738.06,Emergency Fund,,Cash,Completed
+OWN00379,2017-04-02,634.27,Business Investment,,Cash,Completed
+OWN00380,2017-04-09,1148.05,Profit Share,End of month share,Cash,Completed
+OWN00381,2017-04-16,742.25,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00382,2017-04-23,1108.06,Profit Share,,Bank Transfer,Completed
+OWN00383,2017-04-30,564.62,Emergency Fund,,Bank Transfer,Completed
+OWN00384,2017-05-07,1438.27,Personal Expense,Withdrew for family expense,Bank Transfer,Planned
+OWN00385,2017-05-14,1007.42,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00386,2017-05-21,744.92,Profit Share,,Bank Transfer,Planned
+OWN00387,2017-05-28,771.86,Profit Share,End of month share,Cash,Completed
+OWN00388,2017-06-04,877.72,Profit Share,,Bank Transfer,Completed
+OWN00389,2017-06-11,1319.6,Profit Share,,Cash,Completed
+OWN00390,2017-06-18,1354.04,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00391,2017-06-25,757.29,Profit Share,,Cash,Completed
+OWN00392,2017-07-02,571.94,Profit Share,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00393,2017-07-09,512.83,Business Investment,,Cash,Completed
+OWN00394,2017-07-16,1425.69,Emergency Fund,End of month share,Cash,Completed
+OWN00395,2017-07-23,989.55,Personal Expense,,Bank Transfer,Completed
+OWN00396,2017-07-30,1492.47,Profit Share,,Cash,Planned
+OWN00397,2017-08-06,1271.27,Profit Share,,Cash,Completed
+OWN00398,2017-08-13,1196.46,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00399,2017-08-20,977.73,Profit Share,,Bank Transfer,Completed
+OWN00400,2017-08-27,761.33,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00401,2017-09-03,1102.15,Business Investment,,Bank Transfer,Completed
+OWN00402,2017-09-10,1270.97,Emergency Fund,,Bank Transfer,Completed
+OWN00403,2017-09-17,1018.54,Profit Share,,Cash,Cancelled
+OWN00404,2017-09-24,1191.84,Personal Expense,,Cash,Completed
+OWN00405,2017-10-01,1233.93,Emergency Fund,,Bank Transfer,Completed
+OWN00406,2017-10-08,1136.18,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00407,2017-10-15,1248.73,Profit Share,End of month share,Bank Transfer,Completed
+OWN00408,2017-10-22,1487.03,Profit Share,,Cash,Completed
+OWN00409,2017-10-29,1024.96,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00410,2017-11-05,874.65,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00411,2017-11-12,950.66,Profit Share,,Bank Transfer,Completed
+OWN00412,2017-11-19,1309.18,Profit Share,,Bank Transfer,Cancelled
+OWN00413,2017-11-26,579.81,Profit Share,End of month share,Bank Transfer,Planned
+OWN00414,2017-12-03,1085.65,Personal Expense,,Bank Transfer,Completed
+OWN00415,2017-12-10,561.06,Profit Share,,Bank Transfer,Completed
+OWN00416,2017-12-17,711.07,Profit Share,End of month share,Cash,Completed
+OWN00417,2017-12-24,973.23,Profit Share,End of month share,Cash,Completed
+OWN00418,2017-12-31,1499.45,Emergency Fund,,Cash,Completed
+OWN00419,2018-01-07,1110.81,Business Investment,,Bank Transfer,Completed
+OWN00420,2018-01-14,956.92,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00421,2018-01-21,1101.91,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00422,2018-01-28,951.92,Business Investment,,Bank Transfer,Completed
+OWN00423,2018-02-04,503.13,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00424,2018-02-11,1133.78,Emergency Fund,End of month share,Cash,Completed
+OWN00425,2018-02-18,733.56,Business Investment,,Cash,Completed
+OWN00426,2018-02-25,927.92,Emergency Fund,,Cash,Completed
+OWN00427,2018-03-04,793.86,Business Investment,,Bank Transfer,Planned
+OWN00428,2018-03-11,997.93,Profit Share,,Bank Transfer,Cancelled
+OWN00429,2018-03-18,982.17,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00430,2018-03-25,605.47,Profit Share,End of month share,Cash,Completed
+OWN00431,2018-04-01,1266.31,Profit Share,,Bank Transfer,Completed
+OWN00432,2018-04-08,1165.48,Personal Expense,,Bank Transfer,Completed
+OWN00433,2018-04-15,1295.54,Profit Share,,Cash,Completed
+OWN00434,2018-04-22,877.01,Business Investment,,Cash,Completed
+OWN00435,2018-04-29,1308.45,Profit Share,,Bank Transfer,Completed
+OWN00436,2018-05-06,589.14,Emergency Fund,,Cash,Completed
+OWN00437,2018-05-13,627.42,Profit Share,,Cash,Completed
+OWN00438,2018-05-20,561.88,Business Investment,,Cash,Completed
+OWN00439,2018-05-27,1271.28,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00440,2018-06-03,606.59,Profit Share,End of month share,Bank Transfer,Cancelled
+OWN00441,2018-06-10,999.83,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00442,2018-06-17,1098.88,Emergency Fund,,Cash,Completed
+OWN00443,2018-06-24,1496.85,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00444,2018-07-01,791.5,Profit Share,End of month share,Bank Transfer,Completed
+OWN00445,2018-07-08,1327.88,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00446,2018-07-15,1423.16,Business Investment,,Cash,Completed
+OWN00447,2018-07-22,1484.39,Business Investment,,Cash,Completed
+OWN00448,2018-07-29,837.41,Emergency Fund,,Cash,Completed
+OWN00449,2018-08-05,571.82,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00450,2018-08-12,597.32,Business Investment,,Cash,Completed
+OWN00451,2018-08-19,957.53,Profit Share,,Cash,Planned
+OWN00452,2018-08-26,1397.22,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00453,2018-09-02,862.23,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00454,2018-09-09,1450.4,Business Investment,,Bank Transfer,Completed
+OWN00455,2018-09-16,855.58,Emergency Fund,,Cash,Completed
+OWN00456,2018-09-23,1093.39,Personal Expense,,Bank Transfer,Completed
+OWN00457,2018-09-30,533.99,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00458,2018-10-07,1275.85,Personal Expense,,Cash,Completed
+OWN00459,2018-10-14,1364.9,Profit Share,,Cash,Completed
+OWN00460,2018-10-21,511.6,Profit Share,Withdrew for family expense,Bank Transfer,Planned
+OWN00461,2018-10-28,1086.85,Profit Share,,Bank Transfer,Completed
+OWN00462,2018-11-04,883.96,Business Investment,End of month share,Bank Transfer,Completed
+OWN00463,2018-11-11,599.44,Profit Share,,Cash,Planned
+OWN00464,2018-11-18,1056.06,Business Investment,,Bank Transfer,Completed
+OWN00465,2018-11-25,1018.9,Business Investment,,Bank Transfer,Completed
+OWN00466,2018-12-02,1465.68,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00467,2018-12-09,1054.72,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00468,2018-12-16,1152.64,Business Investment,,Bank Transfer,Cancelled
+OWN00469,2018-12-23,1479.93,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00470,2018-12-30,1477.1,Profit Share,,Cash,Completed
+OWN00471,2019-01-06,1159.16,Personal Expense,End of month share,Cash,Completed
+OWN00472,2019-01-13,1106.17,Personal Expense,,Bank Transfer,Completed
+OWN00473,2019-01-20,536.73,Emergency Fund,Withdrew for family expense,Cash,Planned
+OWN00474,2019-01-27,777.4,Profit Share,End of month share,Cash,Completed
+OWN00475,2019-02-03,881.78,Profit Share,,Cash,Completed
+OWN00476,2019-02-10,1176.53,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00477,2019-02-17,1129.57,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00478,2019-02-24,1063.64,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00479,2019-03-03,1321.57,Business Investment,,Bank Transfer,Completed
+OWN00480,2019-03-10,1464.02,Profit Share,,Cash,Completed
+OWN00481,2019-03-17,565.96,Profit Share,End of month share,Cash,Completed
+OWN00482,2019-03-24,646.33,Profit Share,,Cash,Completed
+OWN00483,2019-03-31,1479.49,Emergency Fund,,Bank Transfer,Completed
+OWN00484,2019-04-07,1026.48,Personal Expense,,Bank Transfer,Completed
+OWN00485,2019-04-14,1028.96,Business Investment,End of month share,Bank Transfer,Completed
+OWN00486,2019-04-21,1396.57,Profit Share,,Cash,Cancelled
+OWN00487,2019-04-28,1092.31,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00488,2019-05-05,642.67,Profit Share,End of month share,Bank Transfer,Completed
+OWN00489,2019-05-12,1178.22,Profit Share,,Cash,Completed
+OWN00490,2019-05-19,1298.47,Profit Share,,Bank Transfer,Completed
+OWN00491,2019-05-26,805.19,Emergency Fund,,Cash,Completed
+OWN00492,2019-06-02,1345.25,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00493,2019-06-09,665.11,Personal Expense,,Bank Transfer,Cancelled
+OWN00494,2019-06-16,1462.17,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00495,2019-06-23,997.81,Personal Expense,,Cash,Completed
+OWN00496,2019-06-30,513.9,Business Investment,End of month share,Bank Transfer,Planned
+OWN00497,2019-07-07,1494.22,Emergency Fund,,Cash,Completed
+OWN00498,2019-07-14,1464.65,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00499,2019-07-21,575.12,Personal Expense,,Cash,Completed
+OWN00500,2019-07-28,995.51,Profit Share,Withdrew for family expense,Bank Transfer,Planned
+OWN00501,2019-08-04,790.06,Profit Share,,Cash,Completed
+OWN00502,2019-08-11,717.46,Emergency Fund,,Cash,Completed
+OWN00503,2019-08-18,1392.49,Profit Share,,Cash,Completed
+OWN00504,2019-08-25,828.55,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00505,2019-09-01,854.53,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00506,2019-09-08,623.84,Profit Share,End of month share,Bank Transfer,Completed
+OWN00507,2019-09-15,970.7,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00508,2019-09-22,608.69,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00509,2019-09-29,853.74,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00510,2019-10-06,689.57,Profit Share,End of month share,Bank Transfer,Cancelled
+OWN00511,2019-10-13,660.31,Emergency Fund,End of month share,Bank Transfer,Cancelled
+OWN00512,2019-10-20,921.1,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00513,2019-10-27,1251.09,Profit Share,,Bank Transfer,Completed
+OWN00514,2019-11-03,609.73,Profit Share,End of month share,Bank Transfer,Planned
+OWN00515,2019-11-10,1267.38,Personal Expense,End of month share,Cash,Completed
+OWN00516,2019-11-17,1476.44,Profit Share,End of month share,Cash,Completed
+OWN00517,2019-11-24,985.93,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00518,2019-12-01,749.47,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00519,2019-12-08,698.41,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00520,2019-12-15,1492.55,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00521,2019-12-22,632.3,Emergency Fund,,Bank Transfer,Planned
+OWN00522,2019-12-29,1116.47,Profit Share,End of month share,Bank Transfer,Planned
+OWN00523,2020-01-05,110.89,Profit Share,,Bank Transfer,Completed
+OWN00524,2020-01-12,152.14,Profit Share,End of month share,Cash,Completed
+OWN00525,2020-01-19,123.48,Profit Share,,Bank Transfer,Completed
+OWN00526,2020-01-26,330.22,Profit Share,End of month share,Bank Transfer,Completed
+OWN00527,2020-02-02,215.45,Profit Share,End of month share,Cash,Completed
+OWN00528,2020-02-09,55.76,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00529,2020-02-16,180.28,Business Investment,End of month share,Bank Transfer,Completed
+OWN00530,2020-02-23,325.12,Profit Share,,Bank Transfer,Completed
+OWN00531,2020-03-01,314.78,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00532,2020-03-08,352.33,Profit Share,End of month share,Cash,Completed
+OWN00533,2020-03-15,362.68,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00534,2020-03-22,63.92,Business Investment,End of month share,Cash,Completed
+OWN00535,2020-03-29,224.24,Emergency Fund,,Cash,Completed
+OWN00536,2020-04-05,209.5,Personal Expense,,Bank Transfer,Completed
+OWN00537,2020-04-12,299.58,Profit Share,,Bank Transfer,Completed
+OWN00538,2020-04-19,397.2,Business Investment,,Cash,Completed
+OWN00539,2020-04-26,342.35,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00540,2020-05-03,375.36,Business Investment,,Cash,Completed
+OWN00541,2020-05-10,103.46,Personal Expense,,Cash,Planned
+OWN00542,2020-05-17,251.91,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00543,2020-05-24,354.13,Profit Share,,Bank Transfer,Completed
+OWN00544,2020-05-31,145.92,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00545,2020-06-07,135.22,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00546,2020-06-14,267.3,Personal Expense,End of month share,Cash,Cancelled
+OWN00547,2020-06-21,41.62,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00548,2020-06-28,449.17,Emergency Fund,,Cash,Completed
+OWN00549,2020-07-05,109.64,Profit Share,,Bank Transfer,Completed
+OWN00550,2020-07-12,361.3,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00551,2020-07-19,408.42,Profit Share,,Bank Transfer,Completed
+OWN00552,2020-07-26,223.03,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00553,2020-08-02,46.85,Business Investment,Withdrew for family expense,Bank Transfer,Planned
+OWN00554,2020-08-09,284.83,Profit Share,End of month share,Bank Transfer,Completed
+OWN00555,2020-08-16,155.08,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00556,2020-08-23,71.76,Profit Share,,Bank Transfer,Completed
+OWN00557,2020-08-30,362.15,Personal Expense,,Cash,Planned
+OWN00558,2020-09-06,10.36,Business Investment,,Bank Transfer,Completed
+OWN00559,2020-09-13,124.17,Emergency Fund,,Bank Transfer,Planned
+OWN00560,2020-09-20,478.81,Business Investment,,Bank Transfer,Cancelled
+OWN00561,2020-09-27,69.62,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00562,2020-10-04,165.88,Personal Expense,End of month share,Bank Transfer,Planned
+OWN00563,2020-10-11,10.6,Profit Share,,Bank Transfer,Cancelled
+OWN00564,2020-10-18,0.61,Profit Share,,Bank Transfer,Completed
+OWN00565,2020-10-25,176.65,Emergency Fund,,Bank Transfer,Completed
+OWN00566,2020-11-01,245.91,Profit Share,End of month share,Cash,Completed
+OWN00567,2020-11-08,38.14,Profit Share,,Bank Transfer,Completed
+OWN00568,2020-11-15,302.25,Personal Expense,,Bank Transfer,Cancelled
+OWN00569,2020-11-22,446.56,Personal Expense,End of month share,Cash,Completed
+OWN00570,2020-11-29,437.7,Profit Share,End of month share,Cash,Completed
+OWN00571,2020-12-06,405.36,Profit Share,,Bank Transfer,Completed
+OWN00572,2020-12-13,388.89,Profit Share,,Bank Transfer,Planned
+OWN00573,2020-12-20,56.58,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00574,2020-12-27,161.53,Profit Share,,Cash,Cancelled
+OWN00575,2021-01-03,1962.58,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00576,2021-01-10,2604.28,Profit Share,,Cash,Completed
+OWN00577,2021-01-17,2077.49,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00578,2021-01-24,1167.24,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00579,2021-01-31,1470.39,Profit Share,,Bank Transfer,Planned
+OWN00580,2021-02-07,2841.81,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00581,2021-02-14,1920.78,Personal Expense,,Bank Transfer,Completed
+OWN00582,2021-02-21,1421.47,Business Investment,,Bank Transfer,Completed
+OWN00583,2021-02-28,1754.92,Profit Share,,Bank Transfer,Cancelled
+OWN00584,2021-03-07,1953.65,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00585,2021-03-14,1282.55,Profit Share,,Bank Transfer,Completed
+OWN00586,2021-03-21,2530.84,Profit Share,End of month share,Cash,Completed
+OWN00587,2021-03-28,1823.04,Business Investment,,Cash,Completed
+OWN00588,2021-04-04,1222.53,Personal Expense,Withdrew for family expense,Bank Transfer,Planned
+OWN00589,2021-04-11,1021.74,Personal Expense,,Cash,Completed
+OWN00590,2021-04-18,2838.3,Business Investment,,Bank Transfer,Completed
+OWN00591,2021-04-25,1543.66,Emergency Fund,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00592,2021-05-02,1800.8,Profit Share,,Cash,Cancelled
+OWN00593,2021-05-09,1954.83,Profit Share,,Bank Transfer,Completed
+OWN00594,2021-05-16,1109.34,Profit Share,End of month share,Bank Transfer,Completed
+OWN00595,2021-05-23,1208.8,Business Investment,End of month share,Bank Transfer,Completed
+OWN00596,2021-05-30,1479.06,Profit Share,,Cash,Planned
+OWN00597,2021-06-06,1375.49,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00598,2021-06-13,1170.08,Profit Share,,Bank Transfer,Completed
+OWN00599,2021-06-20,1096.1,Profit Share,End of month share,Cash,Cancelled
+OWN00600,2021-06-27,2917.48,Profit Share,,Cash,Completed
+OWN00601,2021-07-04,2947.7,Profit Share,,Bank Transfer,Completed
+OWN00602,2021-07-11,2004.35,Profit Share,,Cash,Completed
+OWN00603,2021-07-18,2172.72,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00604,2021-07-25,1157.51,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00605,2021-08-01,2614.95,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00606,2021-08-08,1894.96,Profit Share,,Bank Transfer,Cancelled
+OWN00607,2021-08-15,2781.36,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00608,2021-08-22,2916.03,Emergency Fund,,Bank Transfer,Completed
+OWN00609,2021-08-29,1285.25,Personal Expense,,Cash,Completed
+OWN00610,2021-09-05,1188.23,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00611,2021-09-12,1560.23,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00612,2021-09-19,1515.89,Profit Share,,Bank Transfer,Completed
+OWN00613,2021-09-26,2879.66,Profit Share,End of month share,Cash,Completed
+OWN00614,2021-10-03,1801.88,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00615,2021-10-10,1733.46,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00616,2021-10-17,2364.4,Profit Share,,Bank Transfer,Completed
+OWN00617,2021-10-24,2482.09,Business Investment,,Bank Transfer,Completed
+OWN00618,2021-10-31,2706.12,Profit Share,,Bank Transfer,Completed
+OWN00619,2021-11-07,1446.1,Personal Expense,End of month share,Cash,Completed
+OWN00620,2021-11-14,1936.98,Business Investment,,Bank Transfer,Completed
+OWN00621,2021-11-21,1360.55,Business Investment,Withdrew for family expense,Cash,Cancelled
+OWN00622,2021-11-28,1657.44,Emergency Fund,,Bank Transfer,Completed
+OWN00623,2021-12-05,2404.58,Profit Share,,Bank Transfer,Completed
+OWN00624,2021-12-12,2897.07,Profit Share,,Cash,Planned
+OWN00625,2021-12-19,1124.8,Business Investment,,Bank Transfer,Completed
+OWN00626,2021-12-26,1108.16,Emergency Fund,,Cash,Completed
+OWN00627,2022-01-02,1504.14,Profit Share,,Bank Transfer,Planned
+OWN00628,2022-01-09,1596.67,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00629,2022-01-16,1368.16,Profit Share,End of month share,Bank Transfer,Cancelled
+OWN00630,2022-01-23,1397.21,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00631,2022-01-30,1709.38,Profit Share,,Bank Transfer,Completed
+OWN00632,2022-02-06,1155.62,Personal Expense,End of month share,Cash,Completed
+OWN00633,2022-02-13,1028.37,Emergency Fund,,Cash,Completed
+OWN00634,2022-02-20,1227.21,Profit Share,,Cash,Completed
+OWN00635,2022-02-27,2886.65,Personal Expense,,Bank Transfer,Completed
+OWN00636,2022-03-06,1437.25,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00637,2022-03-13,1432.27,Profit Share,,Cash,Completed
+OWN00638,2022-03-20,2627.56,Personal Expense,,Cash,Cancelled
+OWN00639,2022-03-27,2297.82,Profit Share,End of month share,Cash,Completed
+OWN00640,2022-04-03,2046.34,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00641,2022-04-10,1856.77,Personal Expense,,Cash,Planned
+OWN00642,2022-04-17,2690.18,Profit Share,End of month share,Bank Transfer,Completed
+OWN00643,2022-04-24,2990.73,Profit Share,,Cash,Completed
+OWN00644,2022-05-01,1207.35,Personal Expense,,Cash,Completed
+OWN00645,2022-05-08,2006.72,Personal Expense,,Bank Transfer,Completed
+OWN00646,2022-05-15,1445.76,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00647,2022-05-22,2901.1,Business Investment,,Cash,Completed
+OWN00648,2022-05-29,2815.99,Business Investment,,Bank Transfer,Completed
+OWN00649,2022-06-05,2879.23,Personal Expense,End of month share,Cash,Completed
+OWN00650,2022-06-12,1614.79,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00651,2022-06-19,2800.37,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00652,2022-06-26,2681.54,Business Investment,End of month share,Cash,Completed
+OWN00653,2022-07-03,1340.82,Profit Share,,Bank Transfer,Completed
+OWN00654,2022-07-10,2232.54,Profit Share,,Bank Transfer,Completed
+OWN00655,2022-07-17,2878.78,Business Investment,,Cash,Completed
+OWN00656,2022-07-24,2034.55,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00657,2022-07-31,2262.88,Business Investment,End of month share,Bank Transfer,Completed
+OWN00658,2022-08-07,2897.4,Profit Share,,Bank Transfer,Completed
+OWN00659,2022-08-14,2257.79,Profit Share,,Cash,Completed
+OWN00660,2022-08-21,1050.58,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00661,2022-08-28,1479.44,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00662,2022-09-04,2540.78,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00663,2022-09-11,2276.77,Profit Share,,Bank Transfer,Completed
+OWN00664,2022-09-18,1214.15,Business Investment,,Bank Transfer,Completed
+OWN00665,2022-09-25,1988.49,Business Investment,,Bank Transfer,Completed
+OWN00666,2022-10-02,1982.07,Profit Share,,Bank Transfer,Planned
+OWN00667,2022-10-09,2374.67,Profit Share,,Bank Transfer,Completed
+OWN00668,2022-10-16,1359.61,Personal Expense,,Bank Transfer,Planned
+OWN00669,2022-10-23,2951.83,Profit Share,,Bank Transfer,Completed
+OWN00670,2022-10-30,2043.5,Profit Share,,Bank Transfer,Completed
+OWN00671,2022-11-06,2035.99,Profit Share,End of month share,Bank Transfer,Completed
+OWN00672,2022-11-13,2797.14,Profit Share,Withdrew for family expense,Cash,Planned
+OWN00673,2022-11-20,1547.33,Profit Share,End of month share,Cash,Planned
+OWN00674,2022-11-27,2490.39,Personal Expense,,Bank Transfer,Completed
+OWN00675,2022-12-04,1500.19,Emergency Fund,,Cash,Cancelled
+OWN00676,2022-12-11,1331.31,Business Investment,,Cash,Completed
+OWN00677,2022-12-18,1847.47,Business Investment,,Cash,Completed
+OWN00678,2022-12-25,1858.63,Profit Share,,Cash,Completed
+OWN00679,2023-01-01,1334.5,Personal Expense,End of month share,Cash,Cancelled
+OWN00680,2023-01-08,1796.61,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00681,2023-01-15,1490.64,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00682,2023-01-22,1244.61,Profit Share,End of month share,Bank Transfer,Completed
+OWN00683,2023-01-29,1930.75,Business Investment,,Cash,Completed
+OWN00684,2023-02-05,1567.23,Profit Share,End of month share,Bank Transfer,Completed
+OWN00685,2023-02-12,2147.9,Personal Expense,,Cash,Completed
+OWN00686,2023-02-19,2626.79,Business Investment,,Bank Transfer,Planned
+OWN00687,2023-02-26,2980.52,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00688,2023-03-05,2182.34,Profit Share,,Bank Transfer,Completed
+OWN00689,2023-03-12,2823.29,Business Investment,,Bank Transfer,Completed
+OWN00690,2023-03-19,2791.66,Profit Share,,Bank Transfer,Completed
+OWN00691,2023-03-26,1939.79,Profit Share,End of month share,Cash,Completed
+OWN00692,2023-04-02,1634.38,Profit Share,End of month share,Cash,Completed
+OWN00693,2023-04-09,2224.64,Personal Expense,,Cash,Completed
+OWN00694,2023-04-16,2697.34,Profit Share,End of month share,Bank Transfer,Completed
+OWN00695,2023-04-23,1058.58,Profit Share,End of month share,Cash,Planned
+OWN00696,2023-04-30,1452.68,Business Investment,,Bank Transfer,Cancelled
+OWN00697,2023-05-07,1519.38,Profit Share,End of month share,Bank Transfer,Completed
+OWN00698,2023-05-14,1527.45,Business Investment,,Cash,Completed
+OWN00699,2023-05-21,2397.33,Personal Expense,,Bank Transfer,Completed
+OWN00700,2023-05-28,1638.67,Personal Expense,,Bank Transfer,Cancelled
+OWN00701,2023-06-04,2155.77,Emergency Fund,End of month share,Cash,Completed
+OWN00702,2023-06-11,1451.66,Profit Share,,Cash,Completed
+OWN00703,2023-06-18,2117.03,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00704,2023-06-25,1150.29,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00705,2023-07-02,2637.02,Profit Share,End of month share,Cash,Planned
+OWN00706,2023-07-09,2417.02,Business Investment,,Bank Transfer,Completed
+OWN00707,2023-07-16,1437.57,Emergency Fund,Withdrew for family expense,Cash,Completed
+OWN00708,2023-07-23,1375.91,Profit Share,End of month share,Bank Transfer,Completed
+OWN00709,2023-07-30,1294.58,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00710,2023-08-06,2788.2,Profit Share,,Cash,Planned
+OWN00711,2023-08-13,1531.16,Profit Share,,Bank Transfer,Completed
+OWN00712,2023-08-20,1301.24,Personal Expense,,Cash,Completed
+OWN00713,2023-08-27,1545.18,Business Investment,,Bank Transfer,Cancelled
+OWN00714,2023-09-03,1588.01,Personal Expense,,Cash,Completed
+OWN00715,2023-09-10,1218.37,Emergency Fund,Withdrew for family expense,Bank Transfer,Planned
+OWN00716,2023-09-17,1106.28,Profit Share,,Cash,Cancelled
+OWN00717,2023-09-24,1452.93,Business Investment,,Cash,Completed
+OWN00718,2023-10-01,1202.61,Business Investment,End of month share,Cash,Completed
+OWN00719,2023-10-08,1411.41,Profit Share,End of month share,Cash,Completed
+OWN00720,2023-10-15,2467.76,Business Investment,Withdrew for family expense,Bank Transfer,Cancelled
+OWN00721,2023-10-22,1630.22,Profit Share,,Bank Transfer,Planned
+OWN00722,2023-10-29,2924.49,Profit Share,,Bank Transfer,Completed
+OWN00723,2023-11-05,2948.74,Profit Share,,Cash,Completed
+OWN00724,2023-11-12,2939.08,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00725,2023-11-19,1218.77,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00726,2023-11-26,2050.54,Business Investment,,Cash,Planned
+OWN00727,2023-12-03,2607.79,Profit Share,End of month share,Cash,Completed
+OWN00728,2023-12-10,2326.82,Profit Share,End of month share,Cash,Completed
+OWN00729,2023-12-17,2420.31,Business Investment,,Bank Transfer,Completed
+OWN00730,2023-12-24,1539.87,Personal Expense,Withdrew for family expense,Cash,Completed
+OWN00731,2023-12-31,2712.53,Profit Share,,Bank Transfer,Completed
+OWN00732,2024-01-07,1488.74,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00733,2024-01-14,2488.73,Personal Expense,End of month share,Cash,Cancelled
+OWN00734,2024-01-21,2974.66,Profit Share,End of month share,Cash,Completed
+OWN00735,2024-01-28,1782.05,Emergency Fund,End of month share,Bank Transfer,Completed
+OWN00736,2024-02-04,1082.2,Profit Share,,Cash,Completed
+OWN00737,2024-02-11,2590.67,Business Investment,End of month share,Cash,Completed
+OWN00738,2024-02-18,1220.38,Profit Share,Withdrew for family expense,Cash,Planned
+OWN00739,2024-02-25,2247.59,Profit Share,End of month share,Bank Transfer,Completed
+OWN00740,2024-03-03,2599.57,Profit Share,,Bank Transfer,Planned
+OWN00741,2024-03-10,1976.73,Personal Expense,,Bank Transfer,Cancelled
+OWN00742,2024-03-17,1502.87,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00743,2024-03-24,2426.39,Profit Share,,Cash,Planned
+OWN00744,2024-03-31,1437.72,Profit Share,,Cash,Completed
+OWN00745,2024-04-07,1798.23,Business Investment,End of month share,Cash,Completed
+OWN00746,2024-04-14,1346.6,Business Investment,Withdrew for family expense,Bank Transfer,Completed
+OWN00747,2024-04-21,1500.04,Profit Share,End of month share,Bank Transfer,Completed
+OWN00748,2024-04-28,1594.67,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00749,2024-05-05,2564.81,Profit Share,,Cash,Completed
+OWN00750,2024-05-12,2007.63,Profit Share,End of month share,Cash,Completed
+OWN00751,2024-05-19,1933.11,Profit Share,,Cash,Completed
+OWN00752,2024-05-26,1176.86,Business Investment,End of month share,Bank Transfer,Cancelled
+OWN00753,2024-06-02,2241.78,Business Investment,,Cash,Completed
+OWN00754,2024-06-09,1251.87,Profit Share,,Bank Transfer,Completed
+OWN00755,2024-06-16,1169.32,Emergency Fund,,Cash,Completed
+OWN00756,2024-06-23,2188.68,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00757,2024-06-30,1242.89,Personal Expense,,Bank Transfer,Completed
+OWN00758,2024-07-07,2032.53,Emergency Fund,Withdrew for family expense,Bank Transfer,Completed
+OWN00759,2024-07-14,2790.1,Profit Share,End of month share,Bank Transfer,Completed
+OWN00760,2024-07-21,2611.23,Profit Share,,Bank Transfer,Completed
+OWN00761,2024-07-28,1306.04,Personal Expense,Withdrew for family expense,Bank Transfer,Completed
+OWN00762,2024-08-04,1207.21,Profit Share,,Cash,Cancelled
+OWN00763,2024-08-11,1809.11,Business Investment,End of month share,Cash,Completed
+OWN00764,2024-08-18,2718.63,Profit Share,,Bank Transfer,Completed
+OWN00765,2024-08-25,1283.37,Profit Share,Withdrew for family expense,Cash,Completed
+OWN00766,2024-09-01,1960.93,Profit Share,,Cash,Completed
+OWN00767,2024-09-08,2335.4,Personal Expense,,Cash,Completed
+OWN00768,2024-09-15,1833.79,Profit Share,,Bank Transfer,Completed
+OWN00769,2024-09-22,2128.42,Profit Share,,Bank Transfer,Cancelled
+OWN00770,2024-09-29,2816.22,Profit Share,,Cash,Completed
+OWN00771,2024-10-06,1018.24,Profit Share,,Bank Transfer,Planned
+OWN00772,2024-10-13,1348.99,Profit Share,Withdrew for family expense,Cash,Cancelled
+OWN00773,2024-10-20,2569.92,Emergency Fund,,Cash,Completed
+OWN00774,2024-10-27,1753.05,Personal Expense,End of month share,Bank Transfer,Completed
+OWN00775,2024-11-03,2395.54,Personal Expense,,Bank Transfer,Completed
+OWN00776,2024-11-10,1089.86,Profit Share,,Bank Transfer,Completed
+OWN00777,2024-11-17,1998.87,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00778,2024-11-24,1210.86,Business Investment,,Cash,Completed
+OWN00779,2024-12-01,2844.75,Profit Share,,Cash,Cancelled
+OWN00780,2024-12-08,2526.7,Business Investment,Withdrew for family expense,Cash,Completed
+OWN00781,2024-12-15,1215.32,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00782,2024-12-22,1504.99,Profit Share,Withdrew for family expense,Bank Transfer,Completed
+OWN00783,2024-12-29,1868.13,Business Investment,,Bank Transfer,Completed
